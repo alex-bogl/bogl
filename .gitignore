@@ -9,3 +9,4 @@ stack*.yaml.lock
 TEMP.bgl
 shared/
 haddock/
+*.idea
